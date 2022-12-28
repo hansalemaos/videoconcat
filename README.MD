@@ -1,8 +1,10 @@
+
 <h2>Concatenates videos</h2>
 
 
 ```python
-
+$pip install videoconcat
+from videoconcat import concatenate_video
 # needs ffmpeg 
 
 vi = [
